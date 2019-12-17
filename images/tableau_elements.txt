@@ -1,0 +1,22 @@
+Z :	Symbole :	Nom :         	Structure :
+
+1	H		hydrogène   	(K)1
+2	He		hélium      	(K)2
+3	Li		lithium     	(K)2 (L)1
+4	Be		bérylli     	(K)2 (L)2
+5	B		bore        	(K)2 (L)3
+6	C		carbone     	(K)2 (L)4
+7	N		azote       	(K)2 (L)5
+8	O		oxygène     	(K)2 (L)6
+9	F		fluor       	(K)2 (L)7
+10	Ne		néon        	(K)2 (L)8
+11	Na		sodium      	(K)2 (L)8 (M)1
+12	Mg		magnésium   	(K)2 (L)8 (M)2
+13	Al		aluminium   	(K)2 (L)8 (M)3
+14	Si		silicium    	(K)2 (L)8 (M)4
+15	P		phospore    	(K)2 (L)8 (M)5
+16	S		soufre      	(K)2 (L)8 (M)6
+17	Cl		chlore      	(K)2 (L)8 (M)7
+18	Ar		argon       	(K)2 (L)8 (M)8
+19	K		potassium   	(K)2 (L)8 (M)8 (N)1
+20	Ca		calcium     	(K)2 (L)8 (M)8 (N)2
