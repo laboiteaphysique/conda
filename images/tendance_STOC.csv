@@ -1,0 +1,154 @@
+Espèce;tendance annuelle;Intervalle de confiance inférieur;Intervalle de confiance supérieur;pourcentage de variation 2001-2018;significatif;Catégorie de tendance EBCC
+Etourneau sansonnet;1.011;1.006;1.016;20.679;TRUE;Augmentation modérée
+Accenteur mouchet;0.979;0.975;0.983;-30.257;TRUE;Déclin modéré
+Aigrette garzette;1.014;1.007;1.021;26.209;TRUE;Augmentation modérée
+Alouette des champs;0.983;0.981;0.985;-24.772;TRUE;Déclin modéré
+Alouette lulu;0.994;0.99;0.998;-9.845;TRUE;Déclin modéré
+Avocette élégante;1.008;1.005;1.011;14.607;TRUE;Augmentation modérée
+Bécasseau variable;0.972;0.966;0.978;-37.885;TRUE;Déclin modéré
+Bergeronnette des ruisseaux;0.995;0.986;1.004;-7.41;FALSE;Stable
+Bergeronnette grise;0.998;0.993;1.003;-3.842;FALSE;Stable
+Bergeronnette printanière;0.992;0.987;0.997;-13.395;TRUE;Déclin modéré
+Bouscarle de Cetti;0.998;0.994;1.002;-3.124;FALSE;Stable
+Bouvreuil pivoine;0.954;0.946;0.962;-54.761;TRUE;Déclin modéré
+Bruant des roseaux;0.95;0.943;0.957;-57.881;TRUE;Déclin modéré
+Bruant fou;0.958;0.952;0.964;-51.94;TRUE;Déclin modéré
+Bruant jaune;0.953;0.95;0.956;-55.507;TRUE;Déclin modéré
+Bruant ortolan;0.937;0.929;0.945;-66.817;TRUE;Fort déclin
+Bruant proyer;0.984;0.981;0.987;-24.178;TRUE;Déclin modéré
+Bruant zizi;0.996;0.992;1;-6.843;TRUE;Déclin modéré
+Busard cendré;0.981;0.973;0.989;-27.64;TRUE;Déclin modéré
+Busard des roseaux;1.01;1.001;1.019;17.584;TRUE;Augmentation modérée
+Busard Saint-Martin;0.979;0.969;0.989;-29.802;TRUE;Déclin modéré
+Buse variable;1;0.99;1;-2.74;FALSE;Stable
+Butor étoilé;0.948;0.938;0.958;-59.369;TRUE;Déclin modéré
+Caille des blés;0.966;0.959;0.973;-44.103;TRUE;Déclin modéré
+Canard colvert;1.013;1.008;1.018;23.589;TRUE;Augmentation modérée
+Chardonneret élégant;0.975;0.971;0.979;-34.839;TRUE;Déclin modéré
+Chevalier aboyeur;0.966;0.956;0.976;-44.733;TRUE;Déclin modéré
+Chevalier culblanc;0.986;0.973;0.999;-21.794;TRUE;Déclin modéré
+Chevalier gambette;1.032;1.027;1.037;70.84;TRUE;Augmentation modérée
+Chevalier guignette;0.997;0.987;1.007;-4.45;FALSE;Stable
+Chevêche d'Athéna;1.039;1.028;1.05;90.936;TRUE;Augmentation modérée
+Choucas des tours;1.043;1.037;1.049;103.47;TRUE;Augmentation modérée
+Chouette hulotte;0.976;0.965;0.987;-33.375;TRUE;Déclin modéré
+Cigogne blanche;1.131;1.125;1.137;712.183;TRUE;Forte augmentation
+Cisticole des joncs;0.978;0.973;0.983;-31.191;TRUE;Déclin modéré
+Cochevis huppé;0.995;0.989;1.001;-8.878;FALSE;Stable
+Corbeau freux;0.974;0.967;0.981;-36.232;TRUE;Déclin modéré
+Corneille noire;1.002;1;1.004;2.672;FALSE;Stable
+Coucou gris;0.987;0.984;0.99;-19.933;TRUE;Déclin modéré
+Courlis cendré;0.936;0.928;0.944;-67.604;TRUE;Fort déclin
+Courlis corlieu;0.929;0.917;0.941;-71.156;TRUE;Fort déclin
+Cygne tuberculé;1.01;1.003;1.017;19.059;TRUE;Augmentation modérée
+Echasse blanche;1.038;1.033;1.043;89.71;TRUE;Augmentation modérée
+Epervier d'Europe;0.99;0.98;1;-14.45;FALSE;Stable
+Faisan de Colchide;1.018;1.013;1.023;36.098;TRUE;Augmentation modérée
+Faucon crécerelle;0.99;0.98;0.99;-19.02;TRUE;Déclin modéré
+Faucon hobereau;1.009;0.994;1.024;16.965;FALSE;Stable
+Fauvette à tête noire;1.013;1.012;1.014;24.273;TRUE;Augmentation modérée
+Fauvette babillarde;0.999;0.992;1.006;-1.674;FALSE;Stable
+Fauvette des jardins;0.978;0.973;0.983;-31.915;TRUE;Déclin modéré
+Fauvette grisette;0.995;0.992;0.998;-7.551;TRUE;Déclin modéré
+Fauvette mélanocéphale;0.986;0.983;0.989;-20.96;TRUE;Déclin modéré
+Fauvette orphée;1.044;1.039;1.049;107.395;TRUE;Augmentation modérée
+Fauvette passerinette;1.047;1.042;1.052;118.766;TRUE;Augmentation modérée
+Fauvette pitchou;0.948;0.943;0.953;-59.672;TRUE;Déclin modéré
+Foulque macroule;1.015;1.009;1.021;28.053;TRUE;Augmentation modérée
+Gallinule poule-d'eau;0.985;0.979;0.991;-22.631;TRUE;Déclin modéré
+Geai des chênes;1.006;1.002;1.01;10.772;TRUE;Augmentation modérée
+Gobemouche gris;0.985;0.975;0.995;-23.241;TRUE;Déclin modéré
+Gobemouche noir;0.997;0.987;1.007;-4.579;FALSE;Stable
+Goéland argenté;0.985;0.977;0.993;-22.532;TRUE;Déclin modéré
+Goéland brun;1.038;1.028;1.048;87.976;TRUE;Augmentation modérée
+Goéland leucophée;0.974;0.966;0.982;-35.98;TRUE;Déclin modéré
+Gorgebleue à miroir;0.993;0.989;0.997;-11.598;TRUE;Déclin modéré
+Grand Cormoran;1.069;1.06;1.078;212.216;TRUE;Forte augmentation
+Grande Aigrette;1.12;1.104;1.136;583.393;TRUE;Forte augmentation
+Grèbe castagneux;0.968;0.96;0.976;-42.794;TRUE;Déclin modéré
+Grèbe huppé;1.006;1;1.012;10.076;FALSE;Stable
+Grimpereau des bois;1.014;1.005;1.023;27.092;TRUE;Augmentation modérée
+Grimpereau des jardins;1.005;1.001;1.009;8.709;TRUE;Augmentation modérée
+Grive draine;1.002;0.997;1.007;4.274;FALSE;Stable
+Grive litorne;0.961;0.952;0.97;-49.074;TRUE;Déclin modéré
+Grive musicienne;0.997;0.994;1;-5.675;TRUE;Déclin modéré
+Grosbec casse-noyaux;1.035;1.028;1.042;80.316;TRUE;Augmentation modérée
+Guêpier d'Europe;0.928;0.921;0.935;-72.084;TRUE;Fort déclin
+Héron cendré;1.006;0.999;1.013;11.536;FALSE;Stable
+Héron garde-boeufs;1.092;1.081;1.103;343.995;TRUE;Forte augmentation
+Héron pourpré;1.059;1.048;1.07;166.433;TRUE;Augmentation modérée
+Hibou moyen-duc;1.006;0.992;1.02;11.229;FALSE;Stable
+Hirondelle de fenêtre;0.98;0.97;0.99;-28.77;TRUE;Déclin modéré
+Hirondelle rustique;0.98;0.98;0.98;-29.37;TRUE;Déclin modéré
+Huppe fasciée;1.005;1;1.01;9.615;TRUE;Augmentation modérée
+Hypolaïs polyglotte;1.006;1.002;1.01;11.275;TRUE;Augmentation modérée
+Linotte mélodieuse;0.991;0.986;0.996;-14.133;TRUE;Déclin modéré
+Locustelle tachetée;0.944;0.936;0.952;-62.639;TRUE;Déclin modéré
+Loriot d'Europe;0.996;0.992;1;-7.311;TRUE;Déclin modéré
+Martinet à ventre blanc;0.929;0.917;0.941;-71.186;TRUE;Fort déclin
+Martinet noir;0.96;0.96;0.97;-45.95;TRUE;Déclin modéré
+Martin-pêcheur d'Europe;0.995;0.985;1.005;-7.512;FALSE;Stable
+Merle noir;1.003;1.001;1.005;6.037;TRUE;Augmentation modérée
+Mésange à longue queue;0.989;0.982;0.996;-16.686;TRUE;Déclin modéré
+Mésange bleue;1.003;1;1.006;4.803;FALSE;Stable
+Mésange boréale;0.93;0.93;0.94;-69.46;TRUE;Fort declin
+Mésange charbonnière;1;0.998;1.002;-0.586;FALSE;Stable
+Mésange huppée;0.987;0.98;0.994;-20.538;TRUE;Déclin modéré
+Mésange noire;0.988;0.983;0.993;-17.936;TRUE;Déclin modéré
+Mésange nonnette;1.006;1;1.012;10.015;FALSE;Stable
+Milan noir;1.044;1.037;1.051;109.223;TRUE;Augmentation modérée
+Moineau domestique;0.992;0.99;0.994;-13.186;TRUE;Déclin modéré
+Moineau friquet;0.953;0.946;0.96;-56.021;TRUE;Déclin modéré
+Moineau soulcie;1.055;1.047;1.063;149.13;TRUE;Augmentation modérée
+Mouette mélanocéphale;1.14;1.127;1.153;826.326;TRUE;Forte augmentation
+Mouette rieuse;1.042;1.032;1.052;102.116;TRUE;Augmentation modérée
+Oedicnème criard;1.016;1.008;1.024;30.337;TRUE;Augmentation modérée
+Outarde canepetière;1.056;1.052;1.06;153.866;TRUE;Forte augmentation
+Perdrix grise;0.967;0.962;0.972;-43.213;TRUE;Déclin modéré
+Perdrix rouge;0.978;0.972;0.984;-31.912;TRUE;Déclin modéré
+Petit Gravelot;0.979;0.971;0.987;-30.287;TRUE;Déclin modéré
+Phragmite des joncs;0.999;0.994;1.004;-1.728;FALSE;Stable
+Pic cendré;0.97;0.96;0.97;-45.77;TRUE;Declin moderee
+Pic épeiche;1.007;1.004;1.01;12.155;TRUE;Augmentation modérée
+Pic épeichette;0.98;0.97;0.99;-29.012;TRUE;Déclin modéré
+Pic mar;1.012;1.005;1.019;22.03;TRUE;Augmentation modérée
+Pic noir;1.008;1.001;1.015;14.067;TRUE;Augmentation modérée
+Pic vert;0.992;0.988;0.996;-12.663;TRUE;Déclin modéré
+Pie bavarde;1.008;1.005;1.011;13.911;TRUE;Augmentation modérée
+Pie-grièche à tête rousse;0.978;0.97;0.986;-31.487;TRUE;Déclin modéré
+Pie-grièche écorcheur;0.999;0.994;1.004;-1.692;FALSE;Stable
+Pigeon biset;1.031;1.025;1.037;67.453;TRUE;Augmentation modérée
+Pigeon colombin;1.06;1.052;1.068;167.889;TRUE;Forte augmentation
+Pigeon ramier;1.034;1.032;1.036;77.85;TRUE;Augmentation modérée
+Pinson des arbres;1.002;1.001;1.003;4.307;TRUE;Augmentation modérée
+Pipit des arbres;0.985;0.981;0.989;-23.141;TRUE;Déclin modéré
+Pipit farlouse;0.928;0.921;0.935;-71.732;TRUE;Fort déclin
+Pipit rousseline;1.018;1.012;1.024;35.82;TRUE;Augmentation modérée
+Pouillot de Bonelli;1.028;1.023;1.033;60.407;TRUE;Augmentation modérée
+Pouillot fitis;0.956;0.95;0.962;-53.403;TRUE;Déclin modéré
+Pouillot siffleur;1.005;0.999;1.011;8.21;FALSE;Stable
+Pouillot véloce;0.994;0.992;0.996;-10.487;TRUE;Déclin modéré
+Râle d'eau;0.972;0.961;0.983;-38.255;TRUE;Déclin modéré
+Roitelet à triple bandeau;1.042;1.036;1.048;102.22;TRUE;Augmentation modérée
+Roitelet huppé;0.969;0.963;0.975;-41.344;TRUE;Déclin modéré
+Rollier d'Europe;1.035;1.025;1.045;80.127;TRUE;Augmentation modérée
+Rossignol philomèle;1;0.998;1.002;-0.274;FALSE;Stable
+Rougegorge familier;0.989;0.987;0.991;-16.581;TRUE;Déclin modéré
+Rougequeue à front blanc;1.035;1.03;1.04;78.489;TRUE;Augmentation modérée
+Rougequeue noir;0.996;0.993;0.999;-5.98;TRUE;Déclin modéré
+Rousserolle effarvate;1.022;1.016;1.028;43.988;TRUE;Augmentation modérée
+Rousserolle turdoïde;0.991;0.985;0.997;-13.598;TRUE;Déclin modéré
+Rousserolle verderolle;0.974;0.966;0.982;-36.614;TRUE;Déclin modéré
+Serin cini;0.969;0.965;0.973;-41.043;TRUE;Déclin modéré
+Sittelle torchepot;0.992;0.988;0.996;-12.666;TRUE;Déclin modéré
+Sterne pierregarin;0.982;0.976;0.988;-26.161;TRUE;Déclin modéré
+Tadorne de Belon;1.032;1.027;1.037;69.498;TRUE;Augmentation modérée
+Tarier des prés;0.915;0.902;0.928;-77.894;TRUE;Fort déclin
+Tarier pâtre;0.983;0.979;0.987;-25.458;TRUE;Déclin modéré
+Torcol fourmilier;0.997;0.99;1.004;-4.946;FALSE;Stable
+Tournepierre à collier;1.078;1.071;1.085;258.85;TRUE;Forte augmentation
+Tourterelle des bois;0.963;0.959;0.967;-47.757;TRUE;Déclin modéré
+Tourterelle turque;1.008;1.006;1.01;14.039;TRUE;Augmentation modérée
+Troglodyte mignon;0.987;0.985;0.989;-20.482;TRUE;Déclin modéré
+Vanneau huppé;0.991;0.983;0.999;-14.414;TRUE;Déclin modéré
+Verdier d'Europe;0.959;0.956;0.962;-51.293;TRUE;Déclin modéré
