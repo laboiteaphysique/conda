@@ -1,0 +1,38 @@
+Vol,Compagnie,Code_aeroport,Depart
+BA 309 ,British Airways ,LHR,12:10 PM 
+AH 1003 ,Air Algerie ,ALG,12:15 PM 
+CX 260 ,Cathay Pacific ,HKG,12:45 PM 
+AF 1140 ,Air France ,AMS,12:45 PM 
+DL 9231  ,Delta Air Lines ,AMS,12:45 PM 
+G3 5265  ,Gol ,AMS,12:45 PM 
+GA 9555  ,Garuda Indonesia ,AMS,12:45 PM 
+KL 2016  ,KLM ,AMS,12:45 PM 
+AZ 333 ,Alitalia ,FCO,1:00 PM 
+DL 6640  ,Delta Air Lines ,FCO,1:00 PM 
+MU 8204  ,China Eastern Airlines ,FCO,1:00 PM 
+VN 3157  ,Vietnam Airlines ,FCO,1:00 PM 
+AC 871 ,Air Canada ,YUL,1:00 PM 
+LH 6818  ,Lufthansa ,YUL,1:00 PM 
+OS 8235  ,Austrian ,YUL,1:00 PM 
+SN 9633  ,Brussels Airlines ,YUL,1:00 PM 
+UA 8121  ,United Airlines ,YUL,1:00 PM 
+AF 1780 ,Air France ,LHR,1:35 PM 
+AM 6023  ,Aeromexico ,LHR,1:35 PM 
+CZ 7037  ,China Southern Airlines ,LHR,1:35 PM 
+DL 8324  ,Delta Air Lines ,LHR,1:35 PM 
+G3 5082  ,Gol ,LHR,1:35 PM 
+MK 9414  ,Air Mauritius ,LHR,1:35 PM 
+UU 8780  ,Air Austral ,LHR,1:35 PM 
+VN 3652  ,Vietnam Airlines ,LHR,1:35 PM 
+VS 6701  ,Virgin Atlantic ,LHR,1:35 PM 
+IR 732 ,Iran Air ,IKA,2:05 PM 
+AF 6 ,Air France ,JFK,2:20 PM 
+AZ 3714  ,Alitalia ,JFK,2:20 PM 
+DL 9184  ,Delta Air Lines ,JFK,2:20 PM 
+KL 2301  ,KLM ,JFK,2:20 PM 
+RO 9527  ,TAROM ,JFK,2:20 PM 
+VS 6758  ,Virgin Atlantic ,JFK,2:20 PM 
+VY 8031 ,Vueling ,BCN,2:30 PM 
+IB 5049  ,Iberia ,BCN,2:30 PM 
+TU 717 ,Tunisair ,TUN,2:45 PM 
+LY 328 ,El Al ,TLV,2:45 PM 

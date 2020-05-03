@@ -1,0 +1,42 @@
+Vol,Compagnie,Code_aeroport,Depart
+AH 1231 ,Air Algerie ,ALG,9:15 AM 
+V2K 2001 ,Anisec ,VIE,9:35 AM 
+JU 311 ,Air Serbia ,BEG,10:05 AM 
+AF 6290   ,Air France ,BEG,10:05 AM 
+AF 456 ,Air France ,GRU,10:10 AM 
+KL 2413   ,KLM ,GRU,10:10 AM 
+AF 6112 ,Air France ,TLS,10:10 AM 
+DL 8307   ,Delta Air Lines ,TLS,10:10 AM 
+AF 6008 ,Air France ,MRS,10:15 AM 
+DL 8406   ,Delta Air Lines ,MRS,10:15 AM 
+KM 479 ,Air Malta ,MLA,10:20 AM 
+KL 1228 ,KLM ,AMS,10:35 AM 
+AF 8228   ,Air France ,AMS,10:35 AM 
+DL 9269   ,Delta Air Lines ,AMS,10:35 AM 
+G3 5685   ,Gol ,AMS,10:35 AM 
+GA 9223   ,Garuda Indonesia ,AMS,10:35 AM 
+KQ 1228   ,Kenya Airways ,AMS,10:35 AM 
+MF 9778   ,Xiamen Airlines ,AMS,10:35 AM 
+MK 7594   ,Air Mauritius ,AMS,10:35 AM 
+VN 3154   ,Vietnam Airlines ,AMS,10:35 AM 
+LH 1029 ,Lufthansa ,FRA,10:35 AM 
+NH 5872   ,ANA ,FRA,10:35 AM 
+UA 9069   ,United Airlines ,FRA,10:35 AM 
+GF 18 ,Gulf Air ,BAH,10:40 AM 
+SZN 404 ,Air Senegal ,DSS,10:40 AM 
+AY 1572 ,Finnair ,HEL,10:50 AM 
+B2 866 ,Belavia ,MSQ,11:15 AM 
+AF 3766   ,Air France ,MSQ,11:15 AM 
+KL 1230 ,KLM ,AMS,11:25 AM 
+AF 8230   ,Air France ,AMS,11:25 AM 
+CZ 7637   ,China Southern Airlines ,AMS,11:25 AM 
+DL 9430   ,Delta Air Lines ,AMS,11:25 AM 
+KQ 1230   ,Kenya Airways ,AMS,11:25 AM 
+MF 9780   ,Xiamen Airlines ,AMS,11:25 AM 
+AF 178 ,Air France ,MEX,11:55 AM 
+AM 6104   ,Aeromexico ,MEX,11:55 AM 
+AZ 3692   ,Alitalia ,MEX,11:55 AM 
+KL 2229   ,KLM ,MEX,11:55 AM 
+VS 6806   ,Virgin Atlantic ,MEX,11:55 AM 
+AF 6208 ,Air France ,NCE,11:55 AM 
+DL 8265   ,Delta Air Lines ,NCE,11:55 AM 
